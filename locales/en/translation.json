@@ -1,35 +1,259 @@
 {
   "indexPage": {
     "startSliderItem": {
-      "buttonChange": "Выбрать",
-      "description": "Вы укротитель, коллекционер зверушек!",
+      "buttonChange": "Select",
+      "description": "You are a tamer, a collector of animals!",
       "items": {
         "title": [
-          "Новым игрокам 3 питомца в подарок!",
-          "Выполняйте миссии",
-          "AirDrop в ближайшее время",
-          "Выберите пол!"
+          "New players receive 3 pets as a gift!",
+          "Complete missions",
+          "AirDrop in coming soon",
+          "Choose your gender!"
         ],
         "description": [
-          "Прокачивайте уровень своих питомцев, делайте их сильнее и зарабатывайте больше!",
-          "Посылайте своих вируальных питомцев выполнять задания!",
-          "Чем больше заработок и уровень питомцев, тем больше награда!",
-          "Тапни"
+          "Level up your pets, make them stronger and earn more!",
+          "Send your viral pets to complete tasks!",
+          "The higher the earnings and the level of the pets, the greater the reward!",
+          "Tap"
         ],
         "button": [
           "NEXT",
           "NEXT",
-          "НАЧАТЬ ЗАРАБАТЫВАТЬ",
-          "NEXT"
+          "START EARNING",
+          "SELECT"
         ]
       }
     }
   },
   "bottom_menu": [
     "Map",
-    "Питомцы",
-    "Главная",
-    "Друзья",
-    "Задания"
-  ]
+    "Pets",
+    "Home",
+    "Friends",
+    "Tasks"
+  ],
+  "button": {
+    "shop": "Store",
+    "byP2pPet": "Sell pet",
+    "roulette": "Roulette",
+    "go_to": "Go",
+    "save": "Save"
+  },
+  "close": "Close",
+  "total_pets": "Pets",
+  "island": {
+    "available_task": "{{count}} tasks available"
+  },
+  "users_rating": "Player rating",
+  "rating": "Rating",
+  "profit_in_hour": "Income per hour",
+  "profit_in_hour_with_count": "Income per hour {{count}}",
+  "power_heroes": "The power of heroes",
+  "level": "Level",
+  "animals": {
+    "can_be_improved": "Pet can be improved",
+    "pet_power": "Pet power <1>{{level}}</1> per level",
+    "gold_profit_in_hour": "Income per hour <1>+ {{profit}} per level</1>",
+    "pet_to_gold": "Make pet gold",
+    "experience_to_pet": "+{{experience}} XP to pet",
+    "buy_pet": "Buy a pet",
+    "for_level": "for ur."
+  },
+  "reinforcement_items": "Reinforcement items",
+  "improve": "Improve",
+  "hero": "Hero",
+  "apply": "Apply",
+  "buy_things_to_shop": "Buy enhancement items in the store",
+  "top_users": "Top players",
+  "rating_motivation": "Users by rating are displayed here, become the first!",
+  "level_with_count": "{{count}} level",
+  "level_with_countlong": "{{count}} level",
+  "shop_description": "Here you can buy gold, items and pets!",
+  "power": "Power",
+  "power_with_count": "Power {{count}}",
+  "experience_up": "+ XP {{experience}}",
+  "buy": "Buy",
+  "change": "Select",
+  "reward": "Reward",
+  "shop": {
+    "items": {
+      "pets": "Pets",
+      "things": "Items",
+      "gold": "Gold"
+    }
+  },
+  "roulette_page": {
+    "default": "Regular Roulette",
+    "premium": "Premium Roulette",
+    "chance_win": "Chance of rewards",
+    "description": "Choose a roulette, spin and collect rewards!",
+    "available_spin": "Available spins {{count}}",
+    "action": "Spin",
+    "buy_spin": "Buy spins",
+    "prize": "Prize",
+    "chance": "Chance",
+    "name": "Title",
+    "history_users": "Scrolling history by other players"
+  },
+  "map_page": {
+    "title": "World map <1/>",
+    "history_task": "Task log",
+    "description": "Click on the exclamation mark to select tasks in the region!"
+  },
+  "friends_page": {
+    "title": "Invite your friends!",
+    "description": "Earn rewards for yourself and your friends. The more friends you invite, the more you will earn from them.",
+    "what_this_work": "How it works",
+    "your_rewards": "Your rewards",
+    "profit_for_friends": "Income from friends",
+    "your_friends": "Your friends",
+    "invite_link": "Your invitation link",
+    "invite_friends": "Invite friends",
+    "get_your_friends": "Invite friends!",
+    "share_history_motivation": "Post your Telegram story and attract more friends!",
+    "share_history": "Post a story",
+    "exclusive_rewards": "Exclusive rewards",
+    "reward_hasbeen_received": "Reward received",
+    "get_friends": "Invite {{count}} friends",
+    "friends_for_profit": "Invite friends so that they and your income from friends are displayed here.",
+    "no_friends": "No friends"
+  },
+  "animal_contract_page": {
+    "title": "Pet exchange contract",
+    "description": "Exchange 3 pets of the same rarity and get 1 unique pet with a higher rarity!",
+    "pet_selected": "Pet has already been selected",
+    "errors": {
+      "max_rarity": "Pet's rarity is already maximum",
+      "different_rarity": "The rarity of pets should be the same"
+    },
+    "select_pet_with_count": "Select {{count}} pet",
+    "final_pet": "Out of 3 pets <1/> you will get 1 <2/>!",
+    "exchange_more": "Exchange more",
+    "get_exchange": "Make an exchange"
+  },
+  "airdrop_page": {
+    "title": "AirDrop in progress!",
+    "description": "Active work is underway, but don't waste your time! Move up the user rating, earning as much experience as possible to upgrade your pets!",
+    "token_tips": [
+      {
+        "title": "Buy pets",
+        "description": "The more pets you buy, the more tasks you can complete and you will be higher in the player rating"
+      },
+      {
+        "title": "Upgrade pets",
+        "description": "You can upgrade pets by completing pet tasks or buying pet knowledge scrolls"
+      },
+      {
+        "title": "Complete pet tasks",
+        "description": "By completing pet tasks, you upgrade the pets themselves, as well as earn gold"
+      },
+      {
+        "title": "Invite friends via Telegram",
+        "description": "The more friends you invite, the more gold you will earn. There are exclusive rewards"
+      },
+      {
+        "title": "Earn gold",
+        "description": "Gold can be spent on leveling up and buying pets, as well as participating in the roulette of luck"
+      },
+      {
+        "title": "Complete daily tasks",
+        "description": "By completing daily tasks, you will be able to earn a large amount of gold"
+      },
+      {
+        "title": "Achieve the best place in the ranking",
+        "description": "This is the ultimate goal! The higher you are in the player rankings, the more tokens you will receive in the end."
+      }
+    ],
+    "connect_wallet": "Connect TON Wallet",
+    "description_connect": "Wallet can only be connected to one account.",
+    "about_air_drop": "Airdrop is the distribution of tokens to players' wallets. Tokens will be traded on exchanges and you will be able to sell or store them. To get tokens, you must connect your wallet and upgrade your pets as much as possible.",
+    "description_token": "How to earn more tokens?"
+  },
+  "skin_page": {
+    "select_avatar": "Select the player's avatar"
+  },
+  "history_task_page": {
+    "title": "Task log",
+    "description": "History of previously completed tasks by your pets and their status!",
+    "placeholder": {
+      "title": "You don't have any tasks",
+      "description": "Go to the map and complete the tasks"
+    },
+    "task_in_processed": "Task in progress"
+  },
+  "location_page": {
+    "title": "Tasks",
+    "description": "Select a task, send your best pets to complete it and receive a reward!",
+    "execution_time": "Completion time {{time}}"
+  },
+  "p2p_list_page": {
+    "title": "Active offers from players",
+    "power_count": "Power: {{count}}",
+    "filter": {
+      "payment": "Payment",
+      "all": "All",
+      "stars": "Stars",
+      "gold": "Gold",
+      "rarity": "Rarity",
+      "element": "Element"
+    }
+  },
+  "p2p_index_page": {
+    "title": "P2P Pet Market",
+    "description": "Here you can buy or sell rare and unique pets from players!",
+    "button": {
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "my_active_offers": "My active ads",
+    "selling_pets": "The pets you are currently selling",
+    "ton_balance": "TON balance",
+    "withdraw_info": "You can withdraw from 20 TON to your Wallet",
+    "deals_history": "Transaction history",
+    "sell": "Sale",
+    "buy": "Purchase"
+  },
+  "p2p_add_item_page": {
+    "title": "Creating an ad",
+    "description": "Sell your pets and make a real profit!",
+    "selected_pet": "Selected pet:",
+    "power_count": "Strength: {{count}}",
+    "deal_parameters": "Transaction parameters:",
+    "what_you_vant_to_receive": "What do you want to receive",
+    "amount": "Amount",
+    "buyer_will_pay": "The buyer will pay",
+    "commission_info": "The final price for the buyer is calculated taking into account the 20% application commission",
+    "put_pet_on_sale": "Put the pet up for sale",
+    "popup": {
+      "congratulations": "Congratulations!",
+      "lot_created": "Your P2P lot has been successfully created.",
+      "understanding": "Understood"
+    }
+  },
+  "user_task_page": {
+    "title": "Tasks",
+    "description": "Complete tasks and earn gold!",
+    "time_task": "Completion time {{time}}",
+    "task_requirement": "Task requirement",
+    "pet_total_level": "Total pet level: from {{level}} level",
+    "pet_total_power": "Total pet strength: from {{power}} strength",
+    "select_one_pet": "Select from 1 pet",
+    "the_requirements_are_met": "Requirements met!",
+    "the_requirements_are_not_met": "Task requirements not met!",
+    "start_task": "Start task"
+  },
+  "placeholder_not_found": {
+    "title": "Nothing found",
+    "description": "Try again later or change the parameters"
+  },
+  "placeholder_no_things": {
+    "title": "You have run out of items",
+    "description": "Go to the store to purchase"
+  },
+  "modal_bonus": {
+    "title": "Daily bonus",
+    "description": "Log in to the game daily and get rewards!",
+    "exclusive_bonus": "Exclusive reward!",
+    "save_reward": "Collect reward"
+  }
 }
