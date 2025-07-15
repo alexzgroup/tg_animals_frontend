@@ -1,1 +1,0 @@
-import{r,j as t}from"./react-vendor-BV1hNJtF.js";class e extends r.Component{state={};static getDerivedStateFromError=r=>({error:r});componentDidCatch(r){this.setState({error:r})}render(){const{state:{error:r},props:{fallback:e,children:o}}=this;return"error"in this.state?"function"==typeof e?t.jsx(e,{error:r}):e:o}}export{e as E};
