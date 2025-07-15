@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-BV1hNJtF.js";import{c as o}from"./component-blocks-B8-31aPl.js";const r=({color:r,className:a,...c})=>s.jsxs("span",{...c,className:o("rgb",a),children:[s.jsx("i",{className:"rgb__icon",style:{backgroundColor:r}}),r]});export{r as R};

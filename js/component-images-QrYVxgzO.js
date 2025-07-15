@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-BV1hNJtF.js";import{I as a}from"./component-loaders-C-Bubq-4.js";const e=e=>{const{badge:r}=e;return s.jsxs("div",{className:"image-avatar",children:[s.jsx(a,{...e,style:{borderRadius:19,...e.style},alt:"Quest Animals"}),r&&s.jsx("span",{children:r})]})};export{e as I};
