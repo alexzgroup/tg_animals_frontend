@@ -50,6 +50,7 @@
   "profit_in_hour_with_count": "Доход в час {{count}}",
   "power_heroes": "Сила героев",
   "level": "Уровень",
+  "free_pets": "Свободные питомцы",
   "animals": {
     "can_be_improved": "Можно улучшить питомца",
     "pet_power": "Сила питомца <1>{{level}}</1> за ур.",
@@ -71,7 +72,9 @@
   "shop_description": "Здесь вы сможете приобрести золото, предметы и питомцев!",
   "power": "Сила",
   "power_with_count": "Сила {{count}}",
-  "experience_up": "+ XP {{experience}}",
+  "experience_up": "+{{experience}} XP",
+  "power_up": "+{{power}} силы",
+  "rarity_up": "+{{rarity}} редкость",
   "buy": "Купить",
   "change": "Выбрать",
   "reward": "Награда",
@@ -179,7 +182,8 @@
       "title": "У вас нет заданий",
       "description": "Перейдите к карте и выполните задания"
     },
-    "task_in_processed": "Задание в процессе"
+    "task_in_processed": "Задание в процессе",
+    "total_tome": "Общее время: {{time}}"
   },
   "location_page": {
     "title": "Задания",
@@ -189,6 +193,7 @@
     "p2p_list_page": {
       "title": "Активные предложения от игроков",
       "power_count": "Сила: {{count}}",
+      "pet_price": "Ваша цена: {{price}}",
       "filter": {
         "payment": "Оплата",
         "all": "Все",
@@ -230,6 +235,16 @@
         "lot_created": "Ваш лот P2P успешно создан.",
         "understood": "Понятно"
       }
+  },
+  "profile_page": {
+    "change_avatar": "Сменить аватар игрока",
+    "you_rating": "Ваше место в рейтинге игроков",
+    "get_up_your_pets": "Продолжайте прокачивать, покупать питомцев и увеличивать доход в час!",
+    "settings": "Настройки",
+    "docs": "Документы",
+    "terms_of_use": "Условия использования",
+    "politic": "Политика конфиденциальности",
+    "offer_of_cooperation": "Предложение сотрудничества"
   },
   "user_task_page": {
     "title": "Задачи",

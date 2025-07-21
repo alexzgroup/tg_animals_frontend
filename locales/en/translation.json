@@ -1,286 +1,301 @@
 {
   "indexPage": {
     "startSliderItem": {
-      "buttonChange": "Выбрать",
-      "description": "Вы укротитель, коллекционер зверушек!",
+      "buttonChange": "Select",
+      "description": "You are a tamer, a collector of pets!",
       "items": {
         "title": [
-          "Новым игрокам 3 питомца в подарок!",
-          "Выполняйте миссии",
-          "AirDrop в ближайшее время",
-          "Выберите пол!"
+          "New players get 3 pets as a gift!",
+          "Complete missions",
+          "AirDrop coming soon",
+          "Choose gender!"
         ],
         "description": [
-          "Прокачивайте уровень своих питомцев, делайте их сильнее и зарабатывайте больше!",
-          "Посылайте своих вируальных питомцев выполнять задания!",
-          "Чем больше заработок и уровень питомцев, тем больше награда!",
-          "Тапни"
+          "Level up your pets, make them stronger and earn more!",
+          "Send your virtual pets to complete tasks!",
+          "The higher your earnings and pet levels, the bigger the reward!",
+          "Tap"
         ],
         "button": [
-          "ДАЛЬШЕ",
-          "ДАЛЬШЕ",
-          "НАЧАТЬ ЗАРАБАТЫВАТЬ",
-          "ВЫБРАТЬ"
+          "NEXT",
+          "NEXT",
+          "START EARNING",
+          "SELECT"
         ]
       }
     }
   },
   "bottom_menu": [
-    "Карта",
-    "Питомцы",
-    "Главная",
-    "Друзья",
-    "Задания"
+    "Map",
+    "Pets",
+    "Home",
+    "Friends",
+    "Quests"
   ],
   "button": {
-    "shop": "Магазин",
-    "byP2pPet": "Продать питомца",
-    "roulette": "Рулетка",
-    "go_to": "Перейти",
-    "save": "Сохранить"
+    "shop": "Shop",
+    "byP2pPet": "Sell pet",
+    "roulette": "Roulette",
+    "go_to": "Go to",
+    "save": "Save"
   },
-  "close": "Закрыть",
-  "total_pets": "Питомцев",
+  "close": "Close",
+  "total_pets": "Pets",
   "island": {
-    "available_task": "Доступно {{count}} заданий"
+    "available_task": "Available {{count}} quests"
   },
-  "users_rating": "Рейтинг игроков",
-  "rating": "Рейтинг",
-  "profit_in_hour": "Доход в час",
-  "profit_in_hour_with_count": "Доход в час {{count}}",
-  "power_heroes": "Сила героев",
-  "level": "Уровень",
+  "users_rating": "Player ratings",
+  "rating": "Rating",
+  "profit_in_hour": "Income per hour",
+  "profit_in_hour_with_count": "Income per hour {{count}}",
+  "power_heroes": "Hero power",
+  "level": "Level",
+  "free_pets": "Free pets",
   "animals": {
-    "can_be_improved": "Можно улучшить питомца",
-    "pet_power": "Сила питомца <1>{{level}}</1> за ур.",
-    "gold_profit_in_hour": "Доход в час <1>+ {{profit}} за ур.</1>",
-    "pet_to_gold": "Сделать питомца золотым",
-    "experience_to_pet": "+ {{experience}} XP питомцу",
-    "buy_pet": "Купить питомца",
-    "for_level": "за ур."
+    "can_be_improved": "Pet can be upgraded",
+    "pet_power": "Pet power <1>{{level}}</1> per level",
+    "gold_profit_in_hour": "Income per hour <1>+ {{profit}} per level</1>",
+    "pet_to_gold": "Make pet golden",
+    "experience_to_pet": "+ {{experience}} XP to pet",
+    "buy_pet": "Buy pet",
+    "for_level": "per level"
   },
-  "reinforcement_items": "Предметы усиления",
-  "improve": "Улучшить",
-  "hero": "Герой",
-  "apply": "Применить",
-  "buy_things_to_shop": "Купить предметы усиления в магазине",
-  "top_users": "Топ игроков",
-  "rating_motivation": "Тут отображаются пользователи по рейтингу, стань первым!",
-  "level_with_count": "{{count}} ур.",
-  "level_with_count_long": "{{count}} уровень",
-  "shop_description": "Здесь вы сможете приобрести золото, предметы и питомцев!",
-  "power": "Сила",
-  "power_with_count": "Сила {{count}}",
-  "experience_up": "+ XP {{experience}}",
-  "buy": "Купить",
-  "change": "Выбрать",
-  "reward": "Награда",
+  "reinforcement_items": "Boost items",
+  "improve": "Upgrade",
+  "hero": "Hero",
+  "apply": "Apply",
+  "buy_things_to_shop": "Buy boost items in shop",
+  "top_users": "Top players",
+  "rating_motivation": "Top players by rating are shown here, become #1!",
+  "level_with_count": "{{count}} lvl",
+  "level_with_count_long": "{{count}} level",
+  "shop_description": "Here you can buy gold, items and pets!",
+  "power": "Power",
+  "power_with_count": "Power {{count}}",
+  "experience_up": "+{{experience}} XP",
+  "power_up": "+{{power}} power",
+  "rarity_up": "+{{rarity}} rarity",
+  "buy": "Buy",
+  "change": "Select",
+  "reward": "Reward",
   "shop": {
     "items": {
-      "pets": "Питомцы",
-      "things": "Предметы",
-      "gold": "Золото"
+      "pets": "Pets",
+      "things": "Items",
+      "gold": "Gold"
     }
   },
   "roulette_page": {
-    "default": "Обычная рулетка",
-    "premium": "Премиум рулетка",
-    "chance_win": "Шанс наград",
-    "description": "Выбирай рулетку, крути и забирай награды!",
-    "available_spin": "Доступно спинов {{count}}",
-    "action": "Крутить",
-    "buy_spin": "Купить спины",
-    "prize": "Приз",
-    "chance": "Шанс",
-    "name": "Название",
-    "history_users": "История прокрутки другими игроками"
+    "default": "Regular roulette",
+    "premium": "Premium roulette",
+    "chance_win": "Reward chances",
+    "description": "Choose roulette, spin and claim rewards!",
+    "available_spin": "Available spins {{count}}",
+    "action": "Spin",
+    "buy_spin": "Buy spins",
+    "prize": "Prize",
+    "chance": "Chance",
+    "name": "Name",
+    "history_users": "Spin history by other players"
   },
   "map_page": {
-    "title": "Карта мира <1/>",
-    "history_task": "Журнал заданий",
-    "description": "Нажмите на восклицательный знак, чтобы выбрать задания в регионе!"
+    "title": "World map <1/>",
+    "history_task": "Quest log",
+    "description": "Click on exclamation mark to select quests in the region!"
   },
   "friends_page": {
-    "title": "Пригласите друзей!",
-    "description": "Зарабатывайте награды для себя и своих друзей. Чем больше друзей вы пригласите, тем больше вы на них будете зарабатывать.",
-    "what_this_work": "Как это работает",
-    "your_rewards": "Ваши награды",
-    "profit_for_friends": "Доход от друзей",
-    "your_friends": "Ваши друзья",
-    "invite_link": "Ваша пригласительная ссылка",
-    "invite_friends": "Пригласить друзей",
-    "get_your_friends": "Приглашайте друзей!",
-    "share_history_motivation": "Опубликуйте у себя историю Telegram и привлекайте больше друзей!",
-    "share_history": "Опубликовать историю",
-    "exclusive_rewards": "Эксклюзивные награды",
-    "reward_has_been_received": "Награда получена",
-    "get_friends": "Пригласить {{count}} друзей",
-    "friends_for_profit": "Приглашайте друзей, чтобы они и ваш доход от друзей здесь отображался.",
-    "no_friends": "Друзей нет"
+    "title": "Invite friends!",
+    "description": "Earn rewards for yourself and your friends. The more friends you invite, the more you'll earn from them.",
+    "what_this_work": "How it works",
+    "your_rewards": "Your rewards",
+    "profit_for_friends": "Income from friends",
+    "your_friends": "Your friends",
+    "invite_link": "Your referral link",
+    "invite_friends": "Invite friends",
+    "get_your_friends": "Invite friends!",
+    "share_history_motivation": "Post on your Telegram story to attract more friends!",
+    "share_history": "Post story",
+    "exclusive_rewards": "Exclusive rewards",
+    "reward_has_been_received": "Reward received",
+    "get_friends": "Invite {{count}} friends",
+    "friends_for_profit": "Invite friends to see them and your income from friends here.",
+    "no_friends": "No friends yet"
   },
   "animal_contract_page": {
-    "title": "Контракт обмена питомцами",
-    "description": "Обменяйте 3 питомцев одинаковой редкости и получить 1 уникального питомца редкостью выше!",
-    "pet_selected": "Питомец уже выбран",
+    "title": "Pet exchange contract",
+    "description": "Exchange 3 pets of same rarity to get 1 unique pet with higher rarity!",
+    "pet_selected": "Pet already selected",
     "errors": {
-      "max_rarity": "Редкость питомца уже максимальна",
-      "different_rarity": "Редкость питомцев должна быть одинаковой"
+      "max_rarity": "Pet rarity is already max",
+      "different_rarity": "Pets must have same rarity"
     },
-    "select_pet_with_count": "Выберите {{count}} питомца",
-    "final_pet": "Из 3 питомцев <1/> вы получите 1 <2/>!",
-    "exchange_more": "Обменять ещё",
-    "get_exchange": "Совершить обмен"
+    "select_pet_with_count": "Select {{count}} pets",
+    "final_pet": "From 3 pets <1/> you'll get 1 <2/>!",
+    "exchange_more": "Exchange more",
+    "get_exchange": "Make exchange"
   },
   "airdrop_page": {
-    "title": "AirDrop в процессе!",
-    "description": "Активные работы идут, а вы не теряйте времени! Продвигайтесь по рейтингу пользователей, зарабатывая как можно больше опыта прокачки ваших питомцев!",
+    "title": "AirDrop in progress!",
+    "description": "Work is ongoing, don't waste time! Advance in player ratings by leveling up your pets as much as possible!",
     "token_tips": [
       {
-        "title": "Покупать питомцев",
-        "description": "Чем больше питомцев вы купите, тем больше количества заданий вы сможете выполнять и выше будете в рейтинге игроков"
+        "title": "Buy pets",
+        "description": "More pets means more quests you can complete and higher player rating"
       },
       {
-        "title": "Прокачивать питомцев",
-        "description": "Прокачивать питомцев можно выполняя задания питомцев или покупать свитки знаний для питомцев"
+        "title": "Level up pets",
+        "description": "Level pets by completing quests or buying knowledge scrolls"
       },
       {
-        "title": "Выполнять задания питомцев",
-        "description": "Выполняя задания питомцев, вы прокачиваете самих питомцев, а так же зарабатываете золото"
+        "title": "Complete pet quests",
+        "description": "Completing quests levels up pets and earns gold"
       },
       {
-        "title": "Приглашать друзей Telegram",
-        "description": "Чем больше друзей вы пригласите, тем больше золото вы будете зарабатывать. Есть эксклюзивные награды"
+        "title": "Invite Telegram friends",
+        "description": "More friends means more gold. There are exclusive rewards"
       },
       {
-        "title": "Зарабатывать золото",
-        "description": "Золото можно тратить на прокачку и покупку питомцев, а так же учавствовать в рулетке удачи"
+        "title": "Earn gold",
+        "description": "Spend gold on leveling and buying pets, or try luck roulette"
       },
       {
-        "title": "Выполнять ежедневные задания",
-        "description": "Выполняя ежедневные задания, вы сможете зарабатывать большое количество золота"
+        "title": "Complete daily quests",
+        "description": "Daily quests give large amounts of gold"
       },
       {
-        "title": "Достичь лучшего места в рейтинге",
-        "description": "Это конечная цель! Чем выше вы окажетесь в рейтинге игроков, тем больше токенов вы получите в конечном итоге"
+        "title": "Reach top rating",
+        "description": "Final goal! Higher rating means more tokens in the end"
       }
     ],
-    "connect_wallet": "Подключить TON Кошелёк",
-    "description_connect": "Кошелёк можно подключить только к одному аккаунту.",
-    "about_air_drop": "Airdrop - это распределение токенов на кошельки игроков. Токены будут торговаться на биржах и вы\n сможете продавать или хранить их. Чтобы получить токены, вы должны подключить свой кошелёк и\n прокачать своих питомцев как можно сильнее.",
-    "description_token": "Как заработать больше токенов?"
+    "connect_wallet": "Connect TON Wallet",
+    "description_connect": "Wallet can be connected to only one account.",
+    "about_air_drop": "Airdrop is token distribution to player wallets. Tokens will be traded on exchanges and you can sell or hold them. To get tokens, connect your wallet and level up your pets as much as possible.",
+    "description_token": "How to earn more tokens?"
   },
   "skin_page": {
-    "select_avatar": "Выберите аватар игрока"
+    "select_avatar": "Select player avatar"
   },
   "history_task_page": {
-    "title": "Журнал заданий",
-    "description": "История ранее выполняемых заданий вашими питомцами и их статус!",
+    "title": "Quest log",
+    "description": "History of previously completed quests by your pets and their status!",
     "placeholder": {
-      "title": "У вас нет заданий",
-      "description": "Перейдите к карте и выполните задания"
+      "title": "No quests yet",
+      "description": "Go to map and complete quests"
     },
-    "task_in_processed": "Задание в процессе"
+    "task_in_processed": "Quest in progress",
+    "total_tome": "Total time: {{time}}"
   },
   "location_page": {
-    "title": "Задания",
-    "description": "Выберите задание, пошлите своих лучших питомцев на его выполнение и получение награды!",
-    "execution_time": "Время выполнения {{time}}"
+    "title": "Quests",
+    "description": "Select quest, send your best pets to complete it and get reward!",
+    "execution_time": "Completion time {{time}}"
   },
   "p2p_list_page": {
-    "title": "Активные предложения от игроков",
-    "power_count": "Сила: {{count}}",
+    "title": "Active player offers",
+    "power_count": "Power: {{count}}",
+    "pet_price": "Your price: {{price}}",
     "filter": {
-      "payment": "Оплата",
-      "all": "Все",
-      "stars": "Звёзды",
-      "gold": "Золото",
-      "rarity": "Редкость",
-      "element": "Стихия"
+      "payment": "Payment",
+      "all": "All",
+      "stars": "Stars",
+      "gold": "Gold",
+      "rarity": "Rarity",
+      "element": "Element"
     }
   },
   "p2p_index_page": {
-    "title": "P2P Рынок питомцев",
-    "description": "Здесь вы сможете приобрести у игроков или продать редких и уникальных питомцев!",
+    "title": "P2P Pet Market",
+    "description": "Here you can buy from players or sell rare and unique pets!",
     "button": {
-      "buy": "Купить",
-      "sell": "Продать"
+      "buy": "Buy",
+      "sell": "Sell"
     },
-    "my_active_offers": "Мои активные объявления",
-    "create_new_offer": "Создайте новое объявление, и попробуйте позже",
-    "selling_pets": "Питомцы, которые вы продаёте на данный момент",
-    "ton_balance": "Баланс TON",
-    "withdrawal_info": "Можно выводить от 20 TON на Wallet",
-    "deals_history": "История сделок",
-    "sell": "Продажа",
-    "buy": "Покупка"
+    "my_active_offers": "My active listings",
+    "create_new_offer": "Create new listing, try again later",
+    "selling_pets": "Pets you're currently selling",
+    "ton_balance": "TON balance",
+    "withdrawal_info": "Minimum withdrawal 20 TON to Wallet",
+    "deals_history": "Deal history",
+    "sell": "Sale",
+    "buy": "Purchase"
   },
   "p2p_add_item_page": {
-    "title": "Создание объявления",
-    "description": "Продавайте своих питомцев, и получайте реальную прибыль!",
-    "selected_pet": "Выбранный питомец:",
-    "power_count": "Сила: {{count}}",
-    "deal_parameters": "Параметры сделки:",
-    "what_you_want_to_receive": "Что вы хотите получить",
-    "amount": "Сумма",
-    "buyer_will_pay": "Покупатель заплатит",
-    "commission_info": "Итоговая цена для покупателя расчитывается с учётом комиссии приложения 20%",
-    "put_pet_on_sale": "Выставить питомца на продажу",
+    "title": "Create listing",
+    "description": "Sell your pets and earn real profit!",
+    "selected_pet": "Selected pet:",
+    "power_count": "Power: {{count}}",
+    "deal_parameters": "Deal parameters:",
+    "what_you_want_to_receive": "What you want to receive",
+    "amount": "Amount",
+    "buyer_will_pay": "Buyer will pay",
+    "commission_info": "Final price includes 20% app commission",
+    "put_pet_on_sale": "List pet for sale",
     "popup": {
-      "congratulations": "Поздравляем!",
-      "lot_created": "Ваш лот P2P успешно создан.",
-      "understood": "Понятно"
+      "congratulations": "Congratulations!",
+      "lot_created": "Your P2P listing created successfully.",
+      "understood": "Got it"
     }
   },
+  "profile_page": {
+    "change_avatar": "Change player avatar",
+    "you_rating": "Your player rating position",
+    "get_up_your_pets": "Keep leveling up, buying pets and increasing hourly income!",
+    "settings": "Settings",
+    "docs": "Documents",
+    "terms_of_use": "Terms of use",
+    "politic": "Privacy policy",
+    "offer_of_cooperation": "Partnership offer"
+  },
   "user_task_page": {
-    "title": "Задачи",
-    "description": "Выполняй задачи и зарабатывай золото!",
-    "time_task": "Время выполнения {{time}}",
-    "task_requirement": "Требование задания",
-    "pet_total_level": "Общий уровень питомцев: от {{level}} ур.",
-    "pet_total_power": "Общая сила питомцев: от {{power}} силы",
-    "select_one_pet": "Выберите от 1 питомца",
-    "the_requirements_are_met": "Требования выполнены!",
-    "the_requirements_are_not_met": "Не выполнены требования задания!",
-    "start_task": "Начать задание"
+    "title": "Tasks",
+    "description": "Complete tasks and earn gold!",
+    "time_task": "Completion time {{time}}",
+    "task_requirement": "Task requirements",
+    "pet_total_level": "Total pet level: from {{level}} lvl",
+    "pet_total_power": "Total pet power: from {{power}} power",
+    "select_one_pet": "Select at least 1 pet",
+    "the_requirements_are_met": "Requirements met!",
+    "the_requirements_are_not_met": "Requirements not met!",
+    "start_task": "Start task"
   },
   "placeholder_not_found": {
-    "title": "Ничего не нашлось",
-    "description": "Попробуйте позже или измените параметры"
+    "title": "Nothing found",
+    "description": "Try later or change parameters"
   },
   "placeholder_no_things": {
-    "title": "У вас закончились предметы",
-    "description": "Перейдите в магазин для покупки"
+    "title": "You ran out of items",
+    "description": "Go to shop to buy more"
   },
   "modal_bonus": {
-    "title": "Ежедневный бонус",
-    "description": "Заходи в игру ежедневно и получай награды!",
-    "exclusive_bonus": "Эксклюзивная награда!",
-    "save_reward": "Забрать награду"
+    "title": "Daily bonus",
+    "description": "Log in daily to get rewards!",
+    "exclusive_bonus": "Exclusive reward!",
+    "save_reward": "Claim reward"
   },
   "modal_buy": {
-    "title": "Упс, что то пошло не так...",
-    "description": "Попробуйте ещё, раз или пополните баланс",
-    "go_to_shop": "Перейти в магазин"
+    "title": "Oops, something went wrong...",
+    "description": "Try again or top up balance",
+    "go_to_shop": "Go to shop"
   },
   "modal_roulette_prize": {
-    "title": "Поздравляем, вы выиграли"
+    "title": "Congratulations, you won"
   },
   "modal_select_language": {
-    "app_language": "Язык приложения",
-    "change_language": "Выберите язык"
+    "app_language": "App language",
+    "change_language": "Select language"
   },
   "modal_select_sex": {
-    "male": "Мужской",
-    "female": "Женский"
+    "male": "Male",
+    "female": "Female"
   },
   "share_widget": {
-    "error_story": "Публикация в истории не доступна",
-    "button": "Начать зарабатывать",
-    "description": "Заведи волшебных питомцев вместе со мной прямо в телеграмм и зарабатывай реальные деньги прямо сейчас! Перейди по моей ссылке и получи от меня дополнительный подарок",
-    "link_copied": "Ссылка скопирована"
+    "error_story": "Story posting unavailable",
+    "button": "Start earning",
+    "description": "Get magical pets with me right in Telegram and earn real money now! Follow my link to get extra gift from me",
+    "link_copied": "Link copied"
   },
   "modal_buy_success": {
-    "title": "Успешная покупка",
-    "congratulations": "Поздравляем с покупкой!"
+    "title": "Purchase successful",
+    "congratulations": "Congratulations on your purchase!"
   }
 }
