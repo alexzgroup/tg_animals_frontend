@@ -107,7 +107,7 @@
     "title": "Invite friends!",
     "description": "Earn rewards for yourself and your friends. The more friends you invite, the more you'll earn from them.",
     "what_this_work": "How it works",
-    "your_rewards": "Your rewards",
+    "your_balance": "Your balance",
     "profit_for_friends": "Income from friends",
     "your_friends": "Your friends",
     "invite_link": "Your referral link",
@@ -188,7 +188,8 @@
   "location_page": {
     "title": "Quests",
     "description": "Select quest, send your best pets to complete it and get reward!",
-    "execution_time": "Completion time {{time}}"
+    "execution_time": "Completion time {{time}}",
+    "task_not_found": "All tasks are completed, please try to come back later."
   },
   "p2p_list_page": {
     "title": "Active player offers",
@@ -265,6 +266,10 @@
   "placeholder_no_things": {
     "title": "You ran out of items",
     "description": "Go to shop to buy more"
+  },
+  "placeholder_no_pets": {
+    "title": "No pets available",
+    "description": "All pets sold or on assignment, go to the store or P2P market"
   },
   "modal_bonus": {
     "title": "Daily bonus",
