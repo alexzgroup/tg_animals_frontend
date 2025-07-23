@@ -257,7 +257,8 @@
     "select_one_pet": "Select at least 1 pet",
     "the_requirements_are_met": "Requirements met!",
     "the_requirements_are_not_met": "Requirements not met!",
-    "start_task": "Start task"
+    "start_task": "Start task",
+    "not_tasks": "There are no open tasks yet"
   },
   "placeholder_not_found": {
     "title": "Nothing found",

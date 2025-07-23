@@ -257,7 +257,8 @@
     "select_one_pet": "Выберите от 1 питомца",
     "the_requirements_are_met": "Требования выполнены!",
     "the_requirements_are_not_met": "Не выполнены требования задания!",
-    "start_task": "Начать задание"
+    "start_task": "Начать задание",
+    "not_tasks": "Пока нет открытых заданий"
   },
   "placeholder_not_found": {
     "title": "Ничего не нашлось",
