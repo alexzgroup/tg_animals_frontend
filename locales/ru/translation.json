@@ -58,7 +58,8 @@
     "pet_to_gold": "Сделать питомца золотым",
     "experience_to_pet": "+ {{experience}} XP питомцу",
     "buy_pet": "Купить питомца",
-    "for_level": "за ур."
+    "for_level": "за ур.",
+    "in_progress": "На задании"
   },
   "reinforcement_items": "Предметы усиления",
   "improve": "Улучшить",

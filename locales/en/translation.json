@@ -58,7 +58,8 @@
     "pet_to_gold": "Make pet golden",
     "experience_to_pet": "+ {{experience}} XP to pet",
     "buy_pet": "Buy pet",
-    "for_level": "per level"
+    "for_level": "per level",
+    "in_progress": "On a mission"
   },
   "reinforcement_items": "Boost items",
   "improve": "Upgrade",
