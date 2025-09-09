@@ -50,6 +50,7 @@
   "profit_in_hour_with_count": "Доход в час {{count}}",
   "power_heroes": "Сила героев",
   "level": "Уровень",
+  "short_level": "Ур",
   "free_pets": "Свободные питомцы",
   "animals": {
     "can_be_improved": "Можно улучшить питомца",
@@ -59,7 +60,8 @@
     "experience_to_pet": "+ {{experience}} XP питомцу",
     "buy_pet": "Купить питомца",
     "for_level": "за ур.",
-    "in_progress": "На задании"
+    "in_progress": "На задании",
+    "stock_from": "1 из {{count}}"
   },
   "reinforcement_items": "Предметы усиления",
   "improve": "Улучшить",
@@ -220,6 +222,15 @@
       "deals_history": "История сделок",
       "sell": "Продажа",
       "buy": "Покупка"
+    },
+    "p2p_user_active_items": {
+      "cancel": "Отменить продажу",
+      "delete_popup": {
+        "title": "Подтверждение действия",
+        "description": "Вы точно хотите удалить данный лот?",
+        "apply": "Удалить",
+        "cancel": "Отмена"
+      }
     },
     "p2p_add_item_page": {
       "title": "Создание объявления",

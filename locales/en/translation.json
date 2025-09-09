@@ -50,6 +50,7 @@
   "profit_in_hour_with_count": "Income per hour {{count}}",
   "power_heroes": "Hero power",
   "level": "Level",
+  "short_level": "Lev",
   "free_pets": "Free pets",
   "animals": {
     "can_be_improved": "Pet can be upgraded",
@@ -58,8 +59,9 @@
     "pet_to_gold": "Make pet golden",
     "experience_to_pet": "+ {{experience}} XP to pet",
     "buy_pet": "Buy pet",
-    "for_level": "per level",
-    "in_progress": "On a mission"
+    "for_level": "per lev.",
+    "in_progress": "On a mission",
+    "stock_from": "1 from {{count}}"
   },
   "reinforcement_items": "Boost items",
   "improve": "Upgrade",
@@ -220,6 +222,15 @@
     "deals_history": "Deal history",
     "sell": "Sale",
     "buy": "Purchase"
+  },
+  "p2p_user_active_items": {
+    "cancel": "Cancel sale",
+    "delete_popup": {
+      "title": "Confirmation of action",
+      "description": "Are you sure you want to delete this lot?",
+      "apply": "Delete",
+      "cancel": "Cancel"
+    }
   },
   "p2p_add_item_page": {
     "title": "Create listing",
