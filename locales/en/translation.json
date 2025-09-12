@@ -61,7 +61,8 @@
     "buy_pet": "Buy pet",
     "for_level": "per lev.",
     "in_progress": "On a mission",
-    "stock_from": "1 from {{count}}"
+    "stock_from": "1 from {{count}}",
+    "nature": "Pet's Element"
   },
   "reinforcement_items": "Boost items",
   "improve": "Upgrade",

@@ -61,7 +61,8 @@
     "buy_pet": "Купить питомца",
     "for_level": "за ур.",
     "in_progress": "На задании",
-    "stock_from": "1 из {{count}}"
+    "stock_from": "1 из {{count}}",
+    "nature": "Стихия питомца"
   },
   "reinforcement_items": "Предметы усиления",
   "improve": "Улучшить",
