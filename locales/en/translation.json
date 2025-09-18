@@ -71,7 +71,7 @@
   "buy_things_to_shop": "Buy boost items in shop",
   "top_users": "Top players",
   "rating_motivation": "Top players by rating are shown here, become #1!",
-  "level_with_count": "{{count}} lvl",
+  "level_with_count": "{{count}} lv.",
   "level_with_count_long": "{{count}} level",
   "shop_description": "Here you can buy gold, items and pets!",
   "power": "Power",
@@ -121,7 +121,7 @@
     "share_history": "Post story",
     "exclusive_rewards": "Exclusive rewards",
     "reward_has_been_received": "Reward received",
-    "get_friends": "Invite {{count}} friends",
+    "get_friends": "Invite {{count}} friends in game!",
     "friends_for_profit": "Invite friends to see them and your income from friends here.",
     "no_friends": "No friends yet"
   },
