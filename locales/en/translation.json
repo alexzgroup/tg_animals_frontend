@@ -123,7 +123,17 @@
     "reward_has_been_received": "Reward received",
     "get_friends": "Invite {{count}} friends in game!",
     "friends_for_profit": "Invite friends to see them and your income from friends here.",
-    "no_friends": "No friends yet"
+    "no_friends": "No friends yet",
+    "vip_table": {
+      "title": "What you get",
+      "level_1": "Lv. 1",
+      "level_2": "Lv. 2",
+      "friends_from_telegram": "Friends from Telegram",
+      "reward": "Your reward for inviting a friend and income from his earnings in the app",
+      "friends_premium": "Friends with Telegram Premium",
+      "reward_premium": "Your reward for inviting a friend with Premium and income from his earnings in the app"
+    },
+    "copy_link_your_friends": "Post it on your profile or send it to a friend"
   },
   "animal_contract_page": {
     "title": "Pet exchange contract",

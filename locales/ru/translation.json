@@ -123,7 +123,17 @@
     "reward_has_been_received": "Награда получена",
     "get_friends": "Пригласить {{count}} друзей в игру!",
     "friends_for_profit": "Приглашайте друзей, чтобы они и ваш доход от друзей здесь отображался.",
-    "no_friends": "Друзей нет"
+    "no_friends": "Друзей нет",
+    "vip_table": {
+      "title": "Что вы получаете",
+      "level_1": "Ур.1",
+      "level_2": "Ур.2",
+      "friends_from_telegram": "Друзья из Telegram",
+      "reward": "Ваша награда за приглашение друга и доход от его заработка в приложении",
+      "friends_premium": "Друзья с Telegram Premium",
+      "reward_premium": "Ваша награда за приглашение друга c Premium и доход от его заработка в приложении"
+    },
+    "copy_link_your_friends": "Разместите в своём профиле или отправьте другу"
   },
   "animal_contract_page": {
     "title": "Контракт обмена питомцами",
