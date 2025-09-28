@@ -281,7 +281,17 @@
     "the_requirements_are_met": "Требования выполнены!",
     "the_requirements_are_not_met": "Не выполнены требования задания!",
     "start_task": "Начать задание",
-    "not_tasks": "Пока нет открытых заданий"
+    "not_tasks": "Пока нет открытых заданий",
+    "check": "Проверить",
+    "modal": {
+      "success": {
+        "title": "Поздравляем!"
+      },
+      "error": {
+        "title": "Задание ещё не выполнено",
+        "description": "Выполните задание и повторите попытку"
+      }
+    }
   },
   "placeholder_not_found": {
     "title": "Ничего не нашлось",
