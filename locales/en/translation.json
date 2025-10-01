@@ -37,8 +37,10 @@
     "byP2pPet": "Sell pet",
     "roulette": "Roulette",
     "go_to": "Go to",
-    "save": "Save"
+    "save": "Save",
+    "contract": "Contract"
   },
+  "friends": "Friends",
   "close": "Close",
   "total_pets": "Pets",
   "island": {
@@ -330,11 +332,15 @@
   "share_widget": {
     "error_story": "Story posting unavailable",
     "button": "Start earning",
-    "description": "Get magical pets with me right in Telegram and earn real money now! Follow my link to get extra gift from me",
+    "description": "Get magical pets with me right in Telegram and earn real money now! Follow my link to get extra gift from me by the link {{link}}",
     "link_copied": "Link copied"
   },
   "modal_buy_success": {
     "title": "Purchase successful",
     "congratulations": "Congratulations on your purchase!"
+  },
+  "animal_page": {
+    "title": "List of your pets",
+    "description": "Complete tasks, upgrade your pets, earn more! The income per hour depends on all the pets, their levels and rarity!"
   }
 }
