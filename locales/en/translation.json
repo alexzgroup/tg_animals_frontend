@@ -50,7 +50,7 @@
   "profit_in_hour_with_count": "Income per hour {{count}}",
   "power_heroes": "Hero power",
   "level": "Level",
-  "short_level": "Lev",
+  "short_level": "Lvl",
   "free_pets": "Free pets",
   "animals": {
     "can_be_improved": "Pet can be upgraded",
@@ -59,7 +59,7 @@
     "pet_to_gold": "Make pet golden",
     "experience_to_pet": "+ {{experience}} XP to pet",
     "buy_pet": "Buy pet",
-    "for_level": "per lev.",
+    "for_level": "per Lvl.",
     "in_progress": "On a mission",
     "stock_from": "1 from {{count}}",
     "nature": "Pet's Element"
@@ -71,7 +71,7 @@
   "buy_things_to_shop": "Buy boost items in shop",
   "top_users": "Top players",
   "rating_motivation": "Top players by rating are shown here, become #1!",
-  "level_with_count": "{{count}} lv.",
+  "level_with_count": "{{count}} Lvl",
   "level_with_count_long": "{{count}} level",
   "shop_description": "Here you can buy gold, items and pets!",
   "power": "Power",
@@ -126,8 +126,8 @@
     "no_friends": "No friends yet",
     "vip_table": {
       "title": "What you get",
-      "level_1": "Lv. 1",
-      "level_2": "Lv. 2",
+      "level_1": "Lvl 1",
+      "level_2": "Lvl 2",
       "friends_from_telegram": "Friends from Telegram",
       "reward": "Your reward for inviting a friend and income from his earnings in the app",
       "friends_premium": "Friends with Telegram Premium",
