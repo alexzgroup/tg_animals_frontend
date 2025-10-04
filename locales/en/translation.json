@@ -311,7 +311,8 @@
     "title": "Daily bonus",
     "description": "Log in daily to get rewards!",
     "exclusive_bonus": "Exclusive reward!",
-    "save_reward": "Claim reward"
+    "save_reward": "Claim reward",
+    "week": "week"
   },
   "modal_buy": {
     "title": "Oops, something went wrong...",
