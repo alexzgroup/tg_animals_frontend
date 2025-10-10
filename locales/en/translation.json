@@ -38,7 +38,8 @@
     "roulette": "Roulette",
     "go_to": "Go to",
     "save": "Save",
-    "contract": "Contract"
+    "contract": "Contract",
+    "go_to_the_chat_bot": "Go to ChatBot"
   },
   "friends": "Friends",
   "close": "Close",
