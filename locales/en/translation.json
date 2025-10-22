@@ -41,7 +41,8 @@
     "contract": "Contract",
     "go_to_the_chat_bot": "Go to ChatBot",
     "earn_ton": "Earn a TON",
-    "go_to_the_friends_page": "Go to the “Friends” section"
+    "go_to_the_friends_page": "Go to the “Friends” section",
+    "go_to_transactions": "Output TON"
   },
   "friends": "Friends",
   "close": "Close",
@@ -302,6 +303,24 @@
         "description": "Complete the task and try again"
       }
     }
+  },
+  "user_transaction_page": {
+    "title": "TON withdrawal",
+    "description": "Withdrawal is made only to the TON Wallet in the Telegram Wallet application!",
+    "address": "TON address",
+    "button": "Request withdrawal",
+    "active_balance": "Current balance",
+    "about": "Learn more",
+    "apply_modal": {
+      "yes": "Yes",
+      "no": "No",
+      "title": "Should I withdraw to this address?"
+    },
+    "modal": {
+      "title": "Congratulations!",
+      "description": "Your withdrawal will be processed within 3 days"
+    },
+    "text": "<p>When requesting a TON withdrawal, your entire current balance is withdrawn.</p><p>Carefully check the TON address to which you want to make a withdrawal. In case of an error, the TON will disappear forever!</p><p>The crypto wallet in the Telegram Wallet application is not a TON wallet. To get the output, you need exactly a TON Stake!</p>"
   },
   "placeholder_not_found": {
     "title": "Nothing found",
