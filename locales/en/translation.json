@@ -314,7 +314,7 @@
     "apply_modal": {
       "yes": "Yes",
       "no": "No",
-      "title": "Should I withdraw to this address?"
+      "title": "Check the wallet address"
     },
     "modal": {
       "title": "Congratulations!",
