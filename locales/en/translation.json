@@ -305,6 +305,14 @@
     }
   },
   "user_transaction_page": {
+    "history": "Withdrawal history",
+    "empty": "Выводы средств отсутствуют",
+    "status": {
+      "new": "In progress",
+      "completed": "Completed",
+      "rejected": "Rejected"
+    },
+    "withdrawal": "Withdrawal",
     "title": "TON withdrawal",
     "description": "Withdrawal is made only to the TON Wallet in the Telegram Wallet application!",
     "address": "TON address",

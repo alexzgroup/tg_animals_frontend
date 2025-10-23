@@ -305,6 +305,14 @@
     }
   },
   "user_transaction_page": {
+    "history": "История вывода",
+    "empty": "Выводы средств отсутствуют",
+    "status": {
+      "new": "В процессе",
+      "completed": "Выполнено",
+      "rejected": "Отклонена"
+    },
+    "withdrawal": "Вывод",
     "title": "Вывод TON",
     "description": "Вывод осуществляется только на TON Кошелёк в приложении Кошелёк в Telegram!",
     "address": "TON адрес",
