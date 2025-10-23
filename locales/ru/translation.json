@@ -241,7 +241,7 @@
       "create_new_offer": "Создайте новое объявление, и попробуйте позже",
       "selling_pets": "Питомцы, которые вы продаёте на данный момент",
       "ton_balance": "Баланс TON",
-      "withdrawal_info": "Можно выводить от 20 TON на Wallet",
+      "withdrawal_info": "Можно выводить от {{ton}} TON на Wallet",
       "deals_history": "История сделок",
       "sell": "Продажа",
       "buy": "Покупка"

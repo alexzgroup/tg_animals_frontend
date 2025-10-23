@@ -241,7 +241,7 @@
     "create_new_offer": "Create new listing, try again later",
     "selling_pets": "Pets you're currently selling",
     "ton_balance": "TON balance",
-    "withdrawal_info": "Minimum withdrawal 20 TON to Wallet",
+    "withdrawal_info": "Minimum withdrawal {{ton}} TON to Wallet",
     "deals_history": "Deal history",
     "sell": "Sale",
     "buy": "Purchase"
