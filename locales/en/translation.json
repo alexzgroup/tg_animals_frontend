@@ -135,9 +135,9 @@
       "level_1": "Lvl 1",
       "level_2": "Lvl 2",
       "friends_from_telegram": "Friends from Telegram",
-      "reward": "Your reward for inviting a friend and income from his earnings in the app",
-      "friends_premium": "Friends with Telegram Premium",
-      "reward_premium": "Your reward for inviting a friend with Premium and income from his earnings in the app"
+      "reward": "Your reward for inviting a friend",
+      "friends_premium": "Friends from Telegram Premium",
+      "reward_premium": "Your reward for inviting a friend from Premium"
     },
     "friends_ton_banner": {
       "text_friends": "Active friends who have reached level 10 and above:",
@@ -145,7 +145,7 @@
       "get_ton_description": "(for each level 10 friend you get 0.05 TON)"
     },
     "copy_link_your_friends": "Post it on your profile or send it to a friend",
-    "what_this_work_description": "How to invite friends to be counted to you: <p> 1. Post your invitation link in your profile </p> <p>2. Click on the “Invite friends” button and select the dialog of the friends you want to invite </p> <p>3. Post the story on Telegram with your invitation link (Telegram Premium owners only) </p> For a certain number of invited friends, you will receive an exclusive golden character, you can get acquainted with them in the “Friends” section</p> <p>For each invited friend, you will receive a reward in the form of gold and a percentage of your friend's income, depending on whether he has Telegram Premium or not. A percentage of your friend's income will be credited to you every hour.</p> <p>The second level of friends is when the friend you invited also invited another person. This person will be a second-level friend, for whom you will also receive a reward.</p>"
+    "what_this_work_description": "How to invite friends so that they count towards you: <p> 1. Post your invitation link in your profile </p> <p>2. Click on the “Invite friends” button and select the dialog of the friends you want to invite </p> <p>3. Post the story on Telegram with your invitation link (Telegram Premium owners only) </p> For a certain number of invited friends, you will receive an exclusive golden character, you can get acquainted with them in the “Friends” section</p> <p>For each invited friend, you will receive a different reward in the form of gold, depending on whether he has Telegram Premium or not.</p> <p>The second level of friends is when the friend you invited also invited another person. This person will be a second-level friend, for whom you will also receive a reward.</p>"
   },
   "animal_contract_page": {
     "title": "Pet exchange contract",
