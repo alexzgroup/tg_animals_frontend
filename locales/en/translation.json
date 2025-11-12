@@ -50,8 +50,6 @@
   "island": {
     "available_task": "Available {{count}} quests"
   },
-  "users_rating": "Player ratings",
-  "rating": "Rating",
   "profit_in_hour": "Income per hour",
   "profit_in_hour_with_count": "Income per hour {{count}}",
   "power_heroes": "Hero power",
@@ -76,7 +74,6 @@
   "apply": "Apply",
   "buy_things_to_shop": "Buy boost items in shop",
   "top_users": "Top players",
-  "rating_motivation": "Top players by rating are shown here, become #1!",
   "level_with_count": "{{count}} Lvl",
   "level_with_count_long": "{{count}} level",
   "shop_description": "Here you can buy gold, items and pets!",
@@ -246,7 +243,8 @@
     "withdrawal_info": "Minimum withdrawal {{ton}} TON to Wallet",
     "deals_history": "Deal history",
     "sell": "Sale",
-    "buy": "Purchase"
+    "buy": "Purchase",
+    "all_history_p2p": "More detailed"
   },
   "p2p_user_active_items": {
     "cancel": "Cancel sale",
@@ -255,6 +253,10 @@
       "description": "Are you sure you want to delete this lot?",
       "apply": "Delete",
       "cancel": "Cancel"
+    },
+    "vip_status": {
+      "button_ads": "Raise by 24 hours for {{amount}}",
+      "timer": "Remaining <timer/> in the TOP"
     }
   },
   "p2p_add_item_page": {
@@ -272,11 +274,15 @@
       "congratulations": "Congratulations!",
       "lot_created": "Your P2P listing created successfully.",
       "understood": "Got it"
+    },
+    "vip_status": {
+      "title": "Highlight your ad for {{amount}} stars",
+      "description": "Your ad will be in the top positions for 24 hours and will receive a special TOP tag",
+      "button_text": "Place a TOP ad for {{amount}}"
     }
   },
   "profile_page": {
     "change_avatar": "Change player avatar",
-    "you_rating": "Your player rating position",
     "get_up_your_pets": "Keep leveling up, buying pets and increasing hourly income!",
     "settings": "Settings",
     "docs": "Documents",
@@ -370,7 +376,7 @@
   "share_widget": {
     "error_story": "Story posting unavailable",
     "button": "Start earning",
-    "description": "Get magical pets with me right in Telegram and earn real money now! Follow my link to get extra gift from me by the link {{link}}",
+    "description": "\uD83D\uDC49 {{link}} Get magical pets with me right in Telegram and earn real money now! Follow my link to get extra gift from me by the link",
     "link_copied": "Link copied"
   },
   "modal_buy_success": {
@@ -380,5 +386,20 @@
   "animal_page": {
     "title": "List of your pets",
     "description": "Complete tasks, upgrade your pets, earn more! The income per hour depends on all the pets, their levels and rarity!"
+  },
+  "rating_page": {
+    "users_rating": "Player ratings",
+    "rating": "Rating",
+    "you_rating": "Your player rating position",
+    "rating_motivation": "Top players by rating are shown here, become #1!",
+    "menu": {
+      "best_invite": {
+        "title": "Best invite",
+        "description": "For the current week"
+      },
+      "week": "Week",
+      "total": "Total"
+    },
+    "people": "people"
   }
 }
