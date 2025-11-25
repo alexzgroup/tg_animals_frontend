@@ -391,7 +391,10 @@
     "back": "Go back to add-on selection",
     "filters": "Filters",
     "show": "Show",
-    "apply": "Apply"
+    "apply": "Apply",
+    "view_all": "Show all",
+    "back_to_groups": "Back to the characters",
+    "back_page": "Go back"
   },
   "rating_page": {
     "users_rating": "Player ratings",
