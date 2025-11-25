@@ -71,6 +71,7 @@
   "reinforcement_items": "Boost items",
   "improve": "Upgrade",
   "hero": "Hero",
+  "quantity": "Quantity",
   "apply": "Apply",
   "buy_things_to_shop": "Buy boost items in shop",
   "top_users": "Top players",
@@ -387,7 +388,10 @@
     "title": "List of your pets",
     "description": "Complete tasks, upgrade your pets, earn more! The income per hour depends on all the pets, their levels and rarity!",
     "characters": "characters",
-    "back": "Go back to add-on selection"
+    "back": "Go back to add-on selection",
+    "filters": "Filters",
+    "show": "Show",
+    "apply": "Apply"
   },
   "rating_page": {
     "users_rating": "Player ratings",
