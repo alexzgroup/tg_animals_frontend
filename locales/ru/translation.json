@@ -288,7 +288,8 @@
     "settings": "Настройки",
     "docs": "Документы",
     "terms_of_use": "Условия использования",
-    "offer_of_cooperation": "Предложение сотрудничества"
+    "offer_of_cooperation": "Предложение сотрудничества",
+    "ton_in_hour": "TON в час"
   },
   "user_task_page": {
     "title": "Задачи",

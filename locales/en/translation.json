@@ -288,7 +288,8 @@
     "settings": "Settings",
     "docs": "Documents",
     "terms_of_use": "Terms of use",
-    "offer_of_cooperation": "Partnership offer"
+    "offer_of_cooperation": "Partnership offer",
+    "ton_in_hour": "TON per hour"
   },
   "user_task_page": {
     "title": "Tasks",
