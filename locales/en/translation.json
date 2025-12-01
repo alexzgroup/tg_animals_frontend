@@ -410,6 +410,8 @@
       "week": "Week",
       "total": "Total"
     },
-    "people": "people"
+    "people": "people",
+    "reward_ton": "Reward: +{{amount}} TON",
+    "week_description": "The TON award is given every week on Monday to the first three players who have invited more friends!"
   }
 }
