@@ -413,5 +413,102 @@
     "people": "people",
     "reward_ton": "Reward: +{{amount}} TON",
     "week_description": "The TON award is given every week on Monday to the first three players who have invited more friends!"
+  },
+  "bank_page": {
+    "bank": "Bank",
+    "title": "Quest Animals Bank",
+    "description": "Earn a TON by exchanging gold in the Bank at the current exchange rate or selling it to other players.",
+    "how_to_earn_money": "How to earn?",
+    "get_exchange": "Make an exchange",
+    "currency_place": "P2P Currency Market",
+    "adw_days": "Sell gold for a TON to other players! Placement period: 5 days",
+    "button": {
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "my_adw_description": "The gold you are currently selling",
+    "ton_currency": "1 TON = {{currency}} usd",
+    "error_low_balance": "Minimum withdrawal amount {{available_balance}}",
+    "error_title": "Exchange failed",
+    "error_referrals": "You don't have enough friends to exchange!",
+    "error_referrals_description": "<p>You need to invite more <b><img/>{{count}}</b> friends!</p><p>Invite more friends to the game through the Friends section in order to exchange gold for a TON!</p>",
+    "congratulation": {
+      "title": "Congratulations",
+      "description": "You have successfully exchanged gold in TON, we look forward to your next exchanges, good luck!"
+    }
+  },
+  "p2p_gold_page": {
+    "description": "Sell gold and earn as much TON as possible!",
+    "sell_text": "How much gold do you want to sell:",
+    "buy_text": "How much TON do you want to receive:",
+    "tax_text": "The final price for the buyer is calculated taking into account the current exchange rate TON converted to Stars Telegram + the commission of the Wallet service, the application and the gold rate of Quest Animals for today.",
+    "button_sell_text": "Put gold up for sale",
+    "available_gold": "Balance: {{gold}}",
+    "gold": "gold",
+    "filter": {
+      "price": "Price:",
+      "from": "from",
+      "to": "to",
+      "stars": "{{count}} stars"
+    },
+    "buy_text_botton": "Buy gold for"
+  },
+  "faq_page": {
+    "title": "FAQ or Instructions for the game",
+    "description": "Here is all the important information about how to play, how to make money and how to upgrade!",
+    "button_how": "How to start earning?",
+    "intro": "Welcome to Quest Animals. This is P2E (play and earn) based on the TON blockchain with the richest and most diverse monetization at the moment.",
+    "toc_title": "Table of Contents:",
+    "toc": {
+      "earn": "1. How to earn real money in Quest Animals",
+      "upgrade": "2. How to upgrade characters",
+      "guide": "3. Quick start (Guide)"
+    },
+    "sections": {
+      "earn": {
+        "title": "1. How to earn real money in Quest Animals",
+        "intro": "There are several ways to earn money in Quest Animals:",
+        "list": {
+          "p2p_pets": "Sale of exclusive or upgraded characters in the internal P2P Pet Market",
+          "friends_income": "Income from active level 10 friends that you invited",
+          "weekly_reward": "Weekly reward for a large number of invited friends",
+          "bank_exchange": "Exchange of earned gold for TON in the \"Bank\" section at the current Quest Animals exchange rate",
+          "p2p_gold": "Sale of gold to other players in the internal P2P currency Market",
+          "ton_pets": "Purchase of characters giving TON per hour"
+        },
+        "pet_price_text": "Upgraded characters have a higher cost than level 1 characters. As you develop your character, their price increases.",
+        "p2p_sell_text": "You can sell upgraded and exclusive characters on the internal P2P market of the game. To do this, you need to:\n- On the main screen, click on the \"Sell pet\" button \n- Click on the \"Sell\" button\n- In the ad creation section, select the character you want to sell, the currency you want to receive (gold or TON) and the amount for which you want to sell the characterAfter creating an ad, you need to wait for another player to buy it from you. Keep an eye on the prices on the character market and make the best offer to sell the character faster.\n All the earned TONS will be displayed on your balance, which you can withdraw to your TON wallet.",
+        "friends_text": "Every time you invite a person to the game through your referral link and they reach level 10, you get 0.05 TON. You can invite people through the \"Friends\" section",
+        "weekly_text": "Every week, the player who invited the most friends during the current week receives a TON reward on Monday.",
+        "bank_text": "Each player will be able to exchange earned gold in the game for TON at the current Quest Animals game rate",
+        "p2p_gold_text": "Each player will be able to sell earned gold to other players through the P2P Currency Market.",
+        "ton_pets_text": "There are characters in the game store who will earn you a TON per hour all the time",
+        "summary": "You have familiarized yourself with all the ways to earn real money in the game Quest Animals!"
+      },
+      "upgrade": {
+        "title": "2. How to upgrade characters",
+        "intro": "There are several ways to upgrade characters in Quest Animals:",
+        "list": {
+          "missions": "Completing tasks on the map",
+          "scrolls": "Knowledge scrolls",
+          "p2p_buy": "Purchase of already upgraded characters on the P2P Market"
+        },
+        "benefits": "Leveling up characters is one of the main tasks in the game. Thanks to the upgraded characters, you get more gold and a TON per hour, you can sell the upgraded character and make a good profit in the form of a TON.",
+        "missions_text": "You can send your character on a mission through the \"Map\" section. On the map, you must select the area of the task, followed by the task itself. Each task provides gold and experience for the character. You can send from 1 to 3 characters to a task, as well as each task has requirements for completion, and the characters must meet these requirements.",
+        "scrolls_text": "Building scrolls can be purchased for gold or telegram stars in the internal game store",
+        "p2p_text": "Any player can start the game immediately with upgraded characters, it is enough to buy them from other players through the P2P Character Market."
+      },
+      "guide": {
+        "title": "3. Quick Start (Guide)",
+        "intro": "In order to start earning a lot quickly, you need to follow the guide written below:",
+        "steps": {
+          "step1": "You need to invite as many friends as possible at the very first moment. Referral characters are very strong, they are free and give a lot of gold at once when pumping, as well as each friend gives from 1000 gold.",
+          "step2": "With the accumulated gold, you need to buy scrolls of knowledge and upgrade the most profitable referral characters, as well as do not forget to send them on tasks",
+          "step3": "Start buying profitable characters in the store and P2P Character Market based on the balance of your gold and stars in telegram",
+          "step4": "Start selling upgraded characters in the P2P character market by earning the first TON and exchanging the accumulated gold for TON at the in-game exchange rate or selling to other players"
+        },
+        "summary": "Every aspect and element of the game is monetized and can be sold for a TON, from characters to earned gold."
+      }
+    }
   }
 }
