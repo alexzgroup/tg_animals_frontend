@@ -412,7 +412,7 @@
     },
     "people": "people",
     "reward_ton": "Reward: +{{amount}} TON",
-    "week_description": "The TON award is given every week on Monday to the first three players who have invited more than 30 active Level 10 players during the week!"
+    "week_description": "The TON award is given every week on Monday to the first three players who have invited more than {{count}} active Level 10 players during the week!"
   },
   "bank_page": {
     "bank": "Bank",
