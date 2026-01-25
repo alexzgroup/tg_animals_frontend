@@ -298,6 +298,7 @@
     "task_requirement": "Task requirements",
     "pet_total_level": "Total pet level: from {{level}} lvl",
     "pet_total_power": "Total pet power: from {{power}} power",
+    "min_pets_ton": "Characters earning TON: from {{count}}",
     "select_one_pet": "Select at least 1 pet",
     "the_requirements_are_met": "Requirements met!",
     "the_requirements_are_not_met": "Requirements not met!",
@@ -350,7 +351,9 @@
   },
   "placeholder_no_pets": {
     "title": "No pets available",
-    "description": "All pets sold or on assignment, go to the store or P2P market"
+    "title_ton": "There are no free characters earning a TON per hour",
+    "description": "All pets sold or on assignment, go to the store or P2P market",
+    "description_ton": "Characters of this type earn a TON per hour and have a TON icon. Only such characters can be sent on such tasks! You can buy them in the store or on the P2P market!"
   },
   "modal_bonus": {
     "title": "Daily bonus",
