@@ -42,7 +42,8 @@
     "go_to_the_chat_bot": "Go to ChatBot",
     "earn_ton": "Earn a TON",
     "go_to_the_friends_page": "Go to the “Friends” section",
-    "go_to_transactions": "Output TON"
+    "go_to_transactions": "Output TON",
+    "what_this_work": "How it works"
   },
   "friends": "Friends",
   "close": "Close",
@@ -116,7 +117,6 @@
   "friends_page": {
     "title": "Invite friends!",
     "description": "Earn rewards and TON for yourself and your friends. The more friends you invite, the more you'll earn from them.",
-    "what_this_work": "How it works",
     "your_balance": "Your balance",
     "profit_for_friends": "Income from friends",
     "your_friends": "Your friends",
@@ -514,6 +514,18 @@
         },
         "summary": "Every aspect and element of the game is monetized and can be sold for a TON, from characters to earned gold."
       }
+    }
+  },
+  "pet_collection_page" : {
+    "title": "Collections",
+    "description": "Collect character collections and get exclusive rewards!",
+    "is_got": "Received!",
+    "collect": "Collect",
+    "create": "Receive",
+    "detail": "Collection details:",
+    "about": {
+      "title": "Quest Animals Text Collections “How does it work?”",
+      "description": "<p>A collection is an assembly of certain characters in a certain amount to obtain a unique character.</p><ol><li>To get an exclusive character, you need to have enough characters for a specific collection</li>\n<li>Once you have collected each character in the required amount, you will need to go to the \"Collection\" section, click on the desired exclusive character and click on \"Get \". This will give you an exclusive character</li>\n<li>The collection can be collected only once. This means that exclusive characters from the collection can only be obtained once</li>\n<li>The characters needed to collect the collection will not disappear when you receive an exclusive character, but will remain with you (this is not a contract).</li>\n<li>In order for characters to be considered for collections, they should not be sold on the P2P market</li>\n<li>After you have collected the necessary collection, you can sell the characters that were needed for it on the P2P market so that other users can also collect the collection</li>\n<li>An exclusive character obtained from the collection, you can also sell on the P2P market. The minimum price for them is 50 TON</li>\n<li>All characters that are sold or previously sold in the store are required to collect collections</li>\n<li>The number of collections will be constantly updated as part of past and current Quest Animals additions</li>\n<li>One character can be a requirement for collecting multiple collections</li></ol>"
     }
   }
 }
