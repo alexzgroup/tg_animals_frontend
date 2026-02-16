@@ -527,5 +527,53 @@
       "title": "Quest Animals Text Collections “How does it work?”",
       "description": "<p>A collection is an assembly of certain characters in a certain amount to obtain a unique character.</p><ol><li>To get an exclusive character, you need to have enough characters for a specific collection</li>\n<li>Once you have collected each character in the required amount, you will need to go to the \"Collection\" section, click on the desired exclusive character and click on \"Get \". This will give you an exclusive character</li>\n<li>The collection can be collected only once. This means that exclusive characters from the collection can only be obtained once</li>\n<li>The characters needed to collect the collection will not disappear when you receive an exclusive character, but will remain with you (this is not a contract).</li>\n<li>In order for characters to be considered for collections, they should not be sold on the P2P market</li>\n<li>After you have collected the necessary collection, you can sell the characters that were needed for it on the P2P market so that other users can also collect the collection</li>\n<li>An exclusive character obtained from the collection, you can also sell on the P2P market. The minimum price for them is 50 TON</li>\n<li>All characters that are sold or previously sold in the store are required to collect collections</li>\n<li>The number of collections will be constantly updated as part of past and current Quest Animals additions</li>\n<li>One character can be a requirement for collecting multiple collections</li></ol>"
     }
+  },
+  "ambassador_program_page" : {
+    "banner": {
+      "title": "Affiliate program",
+      "description": "Do you have a telegram channel? Earn more on your resource!"
+    },
+    "referral_statistic": "Referral statistics:",
+    "referral_10": "Level 10 referrals",
+    "current_level": "Current level",
+    "total_reward": "Total earned: <ton/>",
+    "referral_50": "Level 50 referrals",
+    "title": "Affiliate program",
+    "description": "Do you have your own telegram channel with an audience? Become our ambassador and earn more TON for active referrals!",
+    "user_description": "Personal account of the author of the affiliate program.",
+    "button": "Commitments",
+    "resources": "Your resources:",
+    "commitments": "Commitments",
+    "button_get": {
+      "title": "Apply for an application",
+      "subtitle": "for an affiliate program",
+      "description": "Before applying, review the partner's obligations!",
+      "decline": "Application rejected",
+      "processing": "The application is being considered"
+    },
+    "button_update": {
+      "title": "Add new channels",
+      "subtitle": "(telegram channels)",
+      "description": "When adding new telegram channels, the level of the affiliate program will be reviewed."
+    },
+    "modal_text": "<p>The affiliate program provides authors with the opportunity to receive payments in TON due to active referrals, which the author will attract through his telegram channels and other social networks where there is an audience and the author is the creator.</p>\n\n<p>When applying for an affiliate program, you agree to all the conditions described here.</p>\n\n<p>In order for the application to be confirmed, before submitting the application, you must post information about the game in your telegram channels with your referral link on the day of submitting the application, this is the only way you can confirm, that you are the author of the channel. If this requirement is not met in at least one of the stated telegram channels, the entire application will be rejected in its entirety with all resources.</p>\n\n<p>The levels of the affiliate program and the reward for referrals apply to everyone without exception and are not supplemented by any privileges or deposits., publications and other exclusive terms.</p>\n\n<p>Reasons for disconnecting the author from the partner program:</p>\n\n<ol>\n  <li>Artificial increase in the number of referrals</li>\n <li>Artificial increase of referrals' leveling levels</li>\n <li>Multi-sharing</li>\n <li>Lack of evidence of the origin of referrals when requested from Quest Animals developers</li>\n <li>Someone else's telegram channel is passed off as their own</li>\n <li>No publications about Quest Animals in your stated telegram channels for the last 2 weeks</li>\n <li>Accumulated subscribers on the declared resource or activity the resource does not match the number of subscribers</li>\n <li>Low-quality content (pornography, etc.) is being distributed on your website</li>\n  <li>The last new referral of level 10 was more than 2 weeks ago</li>\n<li>Automation of any aspect of the game</li>\n <li>Negative characterization about the game</li>\n <li>A call to level up to level 10 in order to receive a reward, and later quit the game</li>\n</ol>\n\n<p>The reward for referrals can be changed depending on the current TON exchange rate.</p>\n\n<p>The subscriber requirement is summed up from all your telegram channels. For example: if you have one channel with 2,000 subscribers, and the second channel has 9,000 subscribers, then you get the golden level of the affiliate program, since you have a total of 11,000 subscribers. Before submitting an application, you must post information about the game in your telegram channels with your referral link, the only way you can confirm that you are the author of the channel.</p>\n\n<p>By connecting to the affiliate program, the author will be able to receive two rewards for one referral player: when the player reaches level 10 and then level 50.</p>\n\n<p>For which resources the partner program level is assigned:</p>\n\n<ol>\n  <li>Telegram channels</li>\n</ol>\n\n<p>Any author of the resource, regardless of the level of the affiliate program, has the opportunity to receive unique ambassador characters., who earn a TON per hour.</p>",
+    "levels": "Affiliate program levels",
+    "table": {
+      "title": "Level name and requirement",
+      "reward": "Referral award",
+      "row_text": "From {{min}} to {{max}} subscribers",
+      "row_without": "From {{min}} subscribers",
+      "description": "The subscriber requirement is summed up from all your telegram channels. For example: if you have one channel with 2,000 subscribers, and the second channel has 9,000 subscribers, then you get the golden level of the affiliate program, since you have a total of 11,000 subscribers. Before submitting an application, you must post information about the game in your telegram channels with your referral link, the only way you can confirm that you are the author of the channel. After you have done this, click “Apply”"
+    },
+    "pet_title": "Ambassador exclusive characters:",
+    "pet_referrals": "{{referrals}} referrals have reached {{level}} level",
+    "pet_getting": "Reward received!",
+    "pet_description": "Ambassador exclusive characters are available only to members of the affiliate program who have approved the application. These characters can be obtained for attracted players who have reached level 50. The main feature of these characters is the income of a TON per hour and access to quests that bring a TON as a reward."
+  },
+  "ambassador_program_add_page": {
+    "title": "Specify your resources",
+    "description": "Full links to telegram channels. In order for the application to be confirmed, before submitting the application, you must publish information about the game in your telegram channels with your referral link, the only way you can confirm that you are the author of the channel.\u2028 Example of filling in the field: https://t.me/questanimals ",
+    "links": "Links to your resources:",
+    "warning": "An incorrectly submitted application will be rejected if your referral link is not on the mentioned resources, the application will also be rejected."
   }
 }
