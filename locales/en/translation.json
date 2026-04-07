@@ -107,7 +107,8 @@
     "prize": "Prize",
     "chance": "Chance",
     "name": "Name",
-    "history_users": "Spin history by other players"
+    "history_users": "Spin history by other players",
+    "slider_title": "New prizes in premium roulette!"
   },
   "map_page": {
     "title": "World map <1/>",
